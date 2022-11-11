@@ -1,2 +1,0 @@
-# jaycv.github.io
-pfolio
